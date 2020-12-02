@@ -1,1 +1,2 @@
 0353. ♻️ chore: rename env.example
+0864. 🐛 fix: correct typo in registration form
