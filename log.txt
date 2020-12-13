@@ -2,3 +2,4 @@
 0864. 🐛 fix: correct typo in registration form
 0358. 🚀 perf: reduce image load time
 0424. ✨ feat: add user authentication
+0827. 🚀 perf: optimize database query for quiz results
