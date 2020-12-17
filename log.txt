@@ -4,3 +4,4 @@
 0424. ✨ feat: add user authentication
 0827. 🚀 perf: optimize database query for quiz results
 0766. 🎨 style: reformat files with black
+0866. 📚 docs: add API usage examples
