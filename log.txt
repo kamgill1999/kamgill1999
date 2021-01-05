@@ -9,3 +9,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0918. ✨ feat: enable dark mode toggle
 0505. ♻️ chore: add GitHub actions badge
+0377. ✨ feat: add user authentication
