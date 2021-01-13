@@ -12,3 +12,4 @@
 0377. ✨ feat: add user authentication
 0065. ✅ test: add integration test for /submit endpoint
 0292. 📚 docs: clarify environment setup
+0561. 📚 docs: write FAQ section
