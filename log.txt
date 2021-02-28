@@ -18,3 +18,4 @@
 0013. ✅ test: increase coverage on auth module
 0612. ✅ test: test user registration edge cases
 0535. 📚 docs: write FAQ section
+0854. ♻️ chore: rename env.example
