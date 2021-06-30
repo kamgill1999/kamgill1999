@@ -28,3 +28,4 @@
 0637. 🎨 style: apply consistent indentation
 0557. 🔧 refactor: clean up auth middleware
 0464. 🎨 style: remove trailing whitespace
+0970. ♻️ chore: update .gitignore
