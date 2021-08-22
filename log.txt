@@ -33,3 +33,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0631. ✨ feat: create admin dashboard
 0947. 📚 docs: write FAQ section
+0426. ✅ test: add integration test for /submit endpoint
