@@ -46,3 +46,4 @@
 0080. ✨ feat: support email verification
 1000. ✅ test: increase coverage on auth module
 0939. 📚 docs: update README with setup steps
+0826. 📚 docs: clarify environment setup
