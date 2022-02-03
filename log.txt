@@ -54,3 +54,4 @@
 0886. ♻️ chore: clean up unused files
 0095. ✅ test: mock database connection in test suite
 0314. ✨ feat: implement quiz timer feature
+0921. 🐛 fix: correct typo in registration form
