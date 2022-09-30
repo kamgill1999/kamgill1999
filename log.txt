@@ -75,3 +75,4 @@
 0611. ✅ test: test user registration edge cases
 0283. ♻️ chore: add GitHub actions badge
 0845. 🚀 perf: cache repeated calculations
+0344. ♻️ chore: add GitHub actions badge
