@@ -77,3 +77,4 @@
 0845. 🚀 perf: cache repeated calculations
 0344. ♻️ chore: add GitHub actions badge
 0487. 🎨 style: reformat files with black
+0725. 🚀 perf: lazy-load components
