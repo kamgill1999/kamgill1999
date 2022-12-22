@@ -87,3 +87,4 @@
 0490. ✨ feat: create admin dashboard
 0898. 🐛 fix: fix broken CSS in mobile view
 0123. ✨ feat: implement quiz timer feature
+0491. 🚀 perf: lazy-load components
