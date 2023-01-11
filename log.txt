@@ -92,3 +92,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0802. 🔧 refactor: remove redundant code blocks
 0041. 🐛 fix: fix broken CSS in mobile view
+0315. ✅ test: add integration test for /submit endpoint
