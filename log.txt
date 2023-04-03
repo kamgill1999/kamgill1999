@@ -98,3 +98,4 @@
 0287. 📚 docs: write FAQ section
 0534. 🔧 refactor: split large controller into smaller functions
 0137. 🎨 style: rename variables for clarity
+0072. 🚀 perf: optimize database query for quiz results
