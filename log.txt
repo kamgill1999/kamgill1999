@@ -109,3 +109,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0716. ✨ feat: implement quiz timer feature
 0524. ♻️ chore: rename env.example
+0350. 🚀 perf: cache repeated calculations
