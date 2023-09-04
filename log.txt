@@ -115,3 +115,4 @@
 0105. 🐛 fix: correct typo in registration form
 0948. 🐛 fix: fix broken CSS in mobile view
 0048. 📚 docs: update README with setup steps
+0178. ✨ feat: support email verification
