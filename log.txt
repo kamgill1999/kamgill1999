@@ -118,3 +118,4 @@
 0178. ✨ feat: support email verification
 0390. 🎨 style: standardize quote style
 0311. 🎨 style: apply consistent indentation
+0498. ✅ test: mock database connection in test suite
