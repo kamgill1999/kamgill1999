@@ -128,3 +128,4 @@
 0706. ✨ feat: support email verification
 0159. 🚀 perf: lazy-load components
 0255. 🔧 refactor: refactor quiz grading logic
+0894. ✅ test: add integration test for /submit endpoint
