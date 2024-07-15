@@ -150,3 +150,4 @@
 0387. ✨ feat: enable dark mode toggle
 0037. 🐛 fix: correct typo in registration form
 0713. 🐛 fix: handle 500 error in quiz API
+0285. 🐛 fix: resolve issue with date parsing
