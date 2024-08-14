@@ -152,3 +152,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0285. 🐛 fix: resolve issue with date parsing
 0142. ✨ feat: implement quiz timer feature
+0116. ✨ feat: support email verification
