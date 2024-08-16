@@ -154,3 +154,4 @@
 0142. ✨ feat: implement quiz timer feature
 0116. ✨ feat: support email verification
 0514. 🐛 fix: fix broken CSS in mobile view
+0556. ✨ feat: support email verification
