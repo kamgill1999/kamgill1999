@@ -153,3 +153,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0142. ✨ feat: implement quiz timer feature
 0116. ✨ feat: support email verification
+0514. 🐛 fix: fix broken CSS in mobile view
