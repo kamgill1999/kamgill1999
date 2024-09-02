@@ -157,3 +157,4 @@
 0556. ✨ feat: support email verification
 0837. 🚀 perf: cache repeated calculations
 0039. ✅ test: add integration test for /submit endpoint
+0579. 📚 docs: clarify environment setup
