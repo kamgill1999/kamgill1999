@@ -162,3 +162,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0228. 🔧 refactor: remove redundant code blocks
 0370. 🚀 perf: reduce image load time
+0320. 📚 docs: update README with setup steps
