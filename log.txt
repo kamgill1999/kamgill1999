@@ -172,3 +172,4 @@
 0576. ♻️ chore: update .gitignore
 0727. ♻️ chore: add GitHub actions badge
 0680. ♻️ chore: add GitHub actions badge
+0702. ✨ feat: add user authentication
